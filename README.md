@@ -1,2 +1,2 @@
-# Calculator---app
-Simple calculator ap
+# Calculator-app
+Simple calculator app using python
